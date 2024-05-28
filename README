@@ -1,0 +1,7 @@
+To launch API server:
+
+node index.js
+
+in terminal, runs on http://localhost:3000/books
+
+Postman test link: https://www.postman.com/microbody/workspace/book-finder-final-final/collection/34129812-ada40a92-81d2-4af8-8a45-96c364c600c9?action=share&creator=34129812
