@@ -11,6 +11,87 @@ let books = [
     releaseDate: '2022-01-01',
     info: 'This is book 1.',
     ratings: 4.5
+  },
+  {
+    id: 2,
+    title: 'Book 2',
+    author: 'Author 2',
+    genre: 'Thriller',
+    releaseDate: '2022-03-02',
+    info: 'This is book 2.',
+    ratings: 2.2
+  },
+  {
+    id: 3,
+    title: 'Book 3',
+    author: 'Author 3',
+    genre: 'Historic',
+    releaseDate: '2022-02-04',
+    info: 'This is book 3.',
+    ratings: 1.6
+  },
+  {
+    id: 4,
+    title: 'Book 4',
+    author: 'Author 3',
+    genre: 'Horror',
+    releaseDate: '2022-05-22',
+    info: 'This is book 4.',
+    ratings: 4
+  },
+  {
+    id: 5,
+    title: 'Book 5',
+    author: 'Author 6',
+    genre: 'Fiction',
+    releaseDate: '2022-08-05',
+    info: 'This is book 5.',
+    ratings: 3.2
+  },
+  {
+    id: 6,
+    title: 'Book 6',
+    author: 'Author 5',
+    genre: 'Horror',
+    releaseDate: '2022-11-23',
+    info: 'This is book 6.',
+    ratings: 2.6
+  },
+  {
+    id: 7,
+    title: 'Book 7',
+    author: 'Author 1',
+    genre: 'Fiction',
+    releaseDate: '2022-04-08',
+    info: 'This is book 7.',
+    ratings: 3
+  },
+  {
+    id: 8,
+    title: 'Book 8',
+    author: 'Author 7',
+    genre: 'Children',
+    releaseDate: '2022-07-14',
+    info: 'This is book 8.',
+    ratings: 1
+  },
+  {
+    id: 9,
+    title: 'Book 9',
+    author: 'Author 5',
+    genre: 'Travel Guide',
+    releaseDate: '2022-10-26',
+    info: 'This is book 9.',
+    ratings: 2
+  },
+  {
+    id: 10,
+    title: 'Book 10',
+    author: 'Author 1',
+    genre: 'Romance',
+    releaseDate: '2022-03-30',
+    info: 'This is book 10.',
+    ratings: 5
   }
 ];
 
